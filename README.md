@@ -12,20 +12,30 @@
 <!-- ================= CONNECT ================= -->
 
 
+---
 ## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepu098/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
+  
   <a href="mailto:dk7209817@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
+  
   <a href="https://github.com/Deepukrsingh">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
+
+  <!-- FIXED LEETCODE ICON -->
   <a href="https://leetcode.com/u/Deepu_singh123/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
+  </a>
+
+  <!-- INSTAGRAM ADDED -->
+  <a href="https://www.instagram.com/deepu_singh624/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
 </p>
 
